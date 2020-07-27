@@ -1,0 +1,10 @@
+C:\Users\Horacio Flores\source\repos\ejercicio2_ManejoDeImagenes\ejercicio2_ManejoDeImagenes\bin\Debug\ejercicio2_ManejoDeImagenes.exe.config
+C:\Users\Horacio Flores\source\repos\ejercicio2_ManejoDeImagenes\ejercicio2_ManejoDeImagenes\bin\Debug\ejercicio2_ManejoDeImagenes.exe
+C:\Users\Horacio Flores\source\repos\ejercicio2_ManejoDeImagenes\ejercicio2_ManejoDeImagenes\bin\Debug\ejercicio2_ManejoDeImagenes.pdb
+C:\Users\Horacio Flores\source\repos\ejercicio2_ManejoDeImagenes\ejercicio2_ManejoDeImagenes\obj\Debug\ejercicio2_ManejoDeImagenes.csprojAssemblyReference.cache
+C:\Users\Horacio Flores\source\repos\ejercicio2_ManejoDeImagenes\ejercicio2_ManejoDeImagenes\obj\Debug\ejercicio2_ManejoDeImagenes.Form1.resources
+C:\Users\Horacio Flores\source\repos\ejercicio2_ManejoDeImagenes\ejercicio2_ManejoDeImagenes\obj\Debug\ejercicio2_ManejoDeImagenes.Properties.Resources.resources
+C:\Users\Horacio Flores\source\repos\ejercicio2_ManejoDeImagenes\ejercicio2_ManejoDeImagenes\obj\Debug\ejercicio2_ManejoDeImagenes.csproj.GenerateResource.cache
+C:\Users\Horacio Flores\source\repos\ejercicio2_ManejoDeImagenes\ejercicio2_ManejoDeImagenes\obj\Debug\ejercicio2_ManejoDeImagenes.csproj.CoreCompileInputs.cache
+C:\Users\Horacio Flores\source\repos\ejercicio2_ManejoDeImagenes\ejercicio2_ManejoDeImagenes\obj\Debug\ejercicio2_ManejoDeImagenes.exe
+C:\Users\Horacio Flores\source\repos\ejercicio2_ManejoDeImagenes\ejercicio2_ManejoDeImagenes\obj\Debug\ejercicio2_ManejoDeImagenes.pdb
